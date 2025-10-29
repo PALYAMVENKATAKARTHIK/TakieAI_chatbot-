@@ -51,5 +51,4 @@ AI Integration: GPT4All / OpenAI API
 Deployment: Localhost or Cloud (optional)
 
 🚀 Outcome:
-
 TalkieAI demonstrates how conversational AI can enhance user interaction in digital environments. It provides a foundation for building advanced virtual assistants or integrating intelligent chat systems into websites and applications.
