@@ -37,7 +37,7 @@ if not OPENAI_API_KEY:
 else:
     print("✅ OPENAI_API_KEY loaded successfully!")
 
-SECRET_KEY = 'django-insecure-gp!fd3m3)#os2h&0u)v08%#67*=3of=s$zm=u-^7!uk4@&o#o2'
+SECRET_KEY = 'your_secret_key'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
